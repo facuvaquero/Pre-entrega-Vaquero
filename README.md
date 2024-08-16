@@ -1,2 +1,2 @@
 # Pre-entrega-Vaquero
-Pre-entrega curos Python
+Pre-entrega curso Python
